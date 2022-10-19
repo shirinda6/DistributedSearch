@@ -1,0 +1,13 @@
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\bin\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.exe
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\bin\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.deps.json
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\bin\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.runtimeconfig.json
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\bin\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.runtimeconfig.dev.json
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\bin\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.dll
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\bin\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.pdb
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\obj\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.csprojAssemblyReference.cache
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\obj\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.AssemblyInfoInputs.cache
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\obj\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.AssemblyInfo.cs
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\obj\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.csproj.CoreCompileInputs.cache
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\obj\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.dll
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\obj\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.pdb
+C:\Users\arie4\source\repos\Exercise 2 Threads and Concurrency\Exercise 2 Threads and Concurrency\obj\Debug\netcoreapp3.1\Exercise 2 Threads and Concurrency.genruntimeconfig.cache

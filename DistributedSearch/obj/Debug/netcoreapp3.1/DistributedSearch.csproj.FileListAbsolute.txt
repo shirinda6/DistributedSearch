@@ -1,0 +1,13 @@
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\bin\Debug\netcoreapp3.1\DistributedSearch.exe
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\bin\Debug\netcoreapp3.1\DistributedSearch.deps.json
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\bin\Debug\netcoreapp3.1\DistributedSearch.runtimeconfig.json
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\bin\Debug\netcoreapp3.1\DistributedSearch.runtimeconfig.dev.json
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\bin\Debug\netcoreapp3.1\DistributedSearch.dll
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\bin\Debug\netcoreapp3.1\DistributedSearch.pdb
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\obj\Debug\netcoreapp3.1\DistributedSearch.csprojAssemblyReference.cache
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\obj\Debug\netcoreapp3.1\DistributedSearch.AssemblyInfoInputs.cache
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\obj\Debug\netcoreapp3.1\DistributedSearch.AssemblyInfo.cs
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\obj\Debug\netcoreapp3.1\DistributedSearch.csproj.CoreCompileInputs.cache
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\obj\Debug\netcoreapp3.1\DistributedSearch.dll
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\obj\Debug\netcoreapp3.1\DistributedSearch.pdb
+C:\Users\arie4\source\repos\DistributedSearch\DistributedSearch\obj\Debug\netcoreapp3.1\DistributedSearch.genruntimeconfig.cache
